@@ -136,8 +136,6 @@ The dataset integrates information from the following publicly accessible source
 
 The final dataset covers **150,004 feature films** released between 2016 and 2024, including a subset of **608 Netflix originals** used exclusively for scenario-based analysis.
 
-Because the dataset incorporates data scraped under terms that restrict redistribution, `DB.xlsx` is not included in this repository. Researchers wishing to replicate the study should construct the dataset following the procedure described in Section 4 of the paper.
-
 ---
 
 ## Outputs
